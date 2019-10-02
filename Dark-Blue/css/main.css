@@ -1342,6 +1342,13 @@ ul.social-links li:last-child a {
 }
 /* Skills */
 
+/* Conferences */
+
+.conferences {
+  /* color: red; */
+  text-shadow: 0 0 3px lightslategrey;
+}
+
 
 /* =======================================
 7.4. Portfolio subpage
