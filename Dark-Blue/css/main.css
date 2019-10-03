@@ -2120,8 +2120,8 @@ ul.social-links li:last-child a {
 
 /* Invert Clients Logo Images (Black to White) */
 .template-style-dark .client-block img {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+  /* -webkit-filter: invert(100%);
+  filter: invert(100%); */
 }
 
 .template-style-dark .fun-fact-block {
